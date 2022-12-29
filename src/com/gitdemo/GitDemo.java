@@ -10,10 +10,11 @@ public class GitDemo {
 		list.add("Angarki");
 		list.add("Akshay");
 
-		for (String s : list) {
-			System.out.println(s);
-		}
+//		for (String s : list) {
+//			System.out.println(s);
+//		}
 
+		System.out.println(list);
 
 	}
 
